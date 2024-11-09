@@ -195,9 +195,9 @@ async def mint_sbt():
         )
         
         collection_addr = AccountAddress.for_named_collection(
-            admin_wallet.address(),  f"{username} DEVX SBT",
+            admin_wallet.address(),  f"{username} DEVX SBT {random_number}",
         )
-        print(collection_addr)
+        print("collection_addr",collection_addr)
         properties=[Property.string(x["label"], x["value"]) for x in properties]
         txn_hash = await token_client.mint_soul_bound_token(
                     admin_wallet,
