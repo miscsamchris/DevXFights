@@ -1,0 +1,15 @@
+[package]
+name = "DevXToken"
+version = "1.0.0"
+authors = []
+
+[addresses]
+DevXToken = "0a9b9a08f54d21e5662694c9fa036b4f6907255f3b8ac552c84b2d374f5945b1"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "testnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
