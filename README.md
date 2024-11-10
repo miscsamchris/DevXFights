@@ -1,6 +1,6 @@
-# DevXFights
+# DevXBattle (AKA DevXFights)
 
-**DevXFights** is an exciting, community-driven Web3 app where developers can showcase their coding prowess and battle for tokens! By connecting their GitHub account and Aptos wallet, users can mint a unique, Pokémon card-like soul-bound token (SBT) representing their developer stats and achievements. 
+**DevXBattle** is an exciting, community-driven Web3 app where developers can showcase their coding prowess and battle for tokens! By connecting their GitHub account and Aptos wallet, users can mint a unique, Pokémon card-like soul-bound token (SBT) representing their developer stats and achievements. 
 
 ## 🎮 How It Works
 
@@ -34,6 +34,4 @@
 - **Enhanced SBT Customization**: Add skins and themes to personalize your developer card further.
 - **Exclusive Rewards**: Earn limited-edition tokens, badges, and more as you battle and grow your reputation.
 
----
-
-Join **DevXFights** now and prove your mettle in the developer community! Connect, Mint, and Battle – may the best dev win!
+Join **DevXBattle** now and prove your mettle in the developer community! Connect, Mint, and Battle – may the best dev win!
